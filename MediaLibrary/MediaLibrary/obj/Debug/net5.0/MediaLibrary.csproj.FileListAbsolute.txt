@@ -1,0 +1,16 @@
+F:\.NET\MediaLibrary\MediaLibrary\bin\Debug\net5.0\MediaLibrary.exe
+F:\.NET\MediaLibrary\MediaLibrary\bin\Debug\net5.0\MediaLibrary.deps.json
+F:\.NET\MediaLibrary\MediaLibrary\bin\Debug\net5.0\MediaLibrary.runtimeconfig.json
+F:\.NET\MediaLibrary\MediaLibrary\bin\Debug\net5.0\MediaLibrary.runtimeconfig.dev.json
+F:\.NET\MediaLibrary\MediaLibrary\bin\Debug\net5.0\MediaLibrary.dll
+F:\.NET\MediaLibrary\MediaLibrary\bin\Debug\net5.0\ref\MediaLibrary.dll
+F:\.NET\MediaLibrary\MediaLibrary\bin\Debug\net5.0\MediaLibrary.pdb
+F:\.NET\MediaLibrary\MediaLibrary\obj\Debug\net5.0\MediaLibrary.csproj.AssemblyReference.cache
+F:\.NET\MediaLibrary\MediaLibrary\obj\Debug\net5.0\MediaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\MediaLibrary\MediaLibrary\obj\Debug\net5.0\MediaLibrary.AssemblyInfoInputs.cache
+F:\.NET\MediaLibrary\MediaLibrary\obj\Debug\net5.0\MediaLibrary.AssemblyInfo.cs
+F:\.NET\MediaLibrary\MediaLibrary\obj\Debug\net5.0\MediaLibrary.csproj.CoreCompileInputs.cache
+F:\.NET\MediaLibrary\MediaLibrary\obj\Debug\net5.0\MediaLibrary.dll
+F:\.NET\MediaLibrary\MediaLibrary\obj\Debug\net5.0\ref\MediaLibrary.dll
+F:\.NET\MediaLibrary\MediaLibrary\obj\Debug\net5.0\MediaLibrary.pdb
+F:\.NET\MediaLibrary\MediaLibrary\obj\Debug\net5.0\MediaLibrary.genruntimeconfig.cache
